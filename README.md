@@ -16,5 +16,5 @@ EFI : OpenCore 0.7.0
 * Ethernet
 * USB Ports
 * Sleep / Wake
+* * Wifi : USB TP-LINK WN725N
 * Bluetooth : USB TP-LINK UB400
-* Wifi : USB TP-LINK WN725N
